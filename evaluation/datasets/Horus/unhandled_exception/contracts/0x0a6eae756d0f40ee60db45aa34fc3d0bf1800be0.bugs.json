@@ -1,0 +1,26 @@
+[
+    {
+        "code_coverage": 100.0,
+        "execution_time": 0.7554817199707031,
+        "tool": "Osiris",
+        "pc": -1,
+        "type": "None",
+        "opcode": "None"
+    },
+    {
+        "code_coverage": 100.0,
+        "execution_time": 1.0531513690948486,
+        "tool": "Oyente",
+        "pc": -1,
+        "type": "None",
+        "opcode": "None"
+    },
+    {
+        "code_coverage": 0.0,
+        "execution_time": 2.790937900543213,
+        "tool": "Mythril",
+        "pc": -1,
+        "type": "None",
+        "opcode": "None"
+    }
+]

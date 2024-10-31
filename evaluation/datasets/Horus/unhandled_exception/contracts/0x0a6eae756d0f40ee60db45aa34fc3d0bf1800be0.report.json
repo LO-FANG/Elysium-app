@@ -1,0 +1,8 @@
+{
+    "patches": [],
+    "control_flow_graph_recovery_time": 0.002157449722290039,
+    "control_flow_graph_recovery": "100%",
+    "original_runtime_size": "167 bytes",
+    "patched_runtime_size": "167 bytes",
+    "execution_time": 0.12032604217529297
+}

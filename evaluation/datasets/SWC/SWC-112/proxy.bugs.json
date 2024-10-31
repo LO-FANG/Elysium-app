@@ -1,0 +1,9 @@
+[
+    {
+        "code_coverage": 99.53,
+        "execution_time": 15.682379961013794,
+        "tool": "Mythril",
+        "pc": 314,
+        "type": "unsafe delegatecall"
+    }
+]
